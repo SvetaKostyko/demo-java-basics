@@ -16,7 +16,7 @@ public class SquareRoots {
             System.out.println(x1);
             System.out.println(x2);
         } else if (D == 0) {
-            double x = -b / (2 * a);
+            double x = (double) -b / (2 * a);
             System.out.println(x);
         } else if (D < 0) {
             System.out.println("No roots");
