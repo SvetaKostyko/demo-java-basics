@@ -1,3 +1,4 @@
 package by.itacademy.svetakostyko.javabasics;
-public class WholeNumber {
+public class IntegerRandomNumber {
+
 }
