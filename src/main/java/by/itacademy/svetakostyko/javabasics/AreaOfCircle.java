@@ -14,4 +14,5 @@ public class AreaOfCircle {
         double radius = scanner.nextDouble();
         System.out.println(area.countArea(radius));
     }
+
 }
