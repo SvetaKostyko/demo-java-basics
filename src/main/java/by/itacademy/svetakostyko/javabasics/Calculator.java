@@ -18,11 +18,10 @@ public class Calculator {
                 if (c != 0) {
                     result = a / c;
                     System.out.println(result);
-                    break;
                 } else {
                     System.out.println("impossible to resolve");
-                    break;
                 }
+                break;
             case "+":
                 result = a + c;
                 System.out.println(result);
